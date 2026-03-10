@@ -1,0 +1,7 @@
+{
+  "name": "Simple Login System",
+  "description": "A simple login system that stores username and password in a SQLite database without hashing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
